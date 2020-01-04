@@ -6,10 +6,6 @@ public class test {
 		System.out.println("zhongguojunren");
 	System.out.println("zhongguojunren");
 		System.out.println("zhongguojunren");
-		System.out.println("zhongguojunren");
-		System.out.println("zhongguojunren");
-		System.out.println("zhongguojunren");
-		System.out.println("zhongguojunren");
-		System.out.println("zhongguojunren");
+	
 	}
 }
